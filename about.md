@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is Advait Raykar's poor attempt to be have a presence on the internet. He may never update this blog. 
+
+He is an undergrad computer science student who enjoys computer science.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+He is a big fan of writing about himself in third person.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[advait.raykar@gmail.com](mailto:advait.raykar@gmail.com)
