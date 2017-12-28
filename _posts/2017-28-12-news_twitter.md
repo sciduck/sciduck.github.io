@@ -1,3 +1,8 @@
+---
+layout: post
+title: Analysing Times Now and Republic TV twitter feeds.
+---
+
 <h2>Or how I scraped the web and did some amateur analysis.</h2>
 As I have said in the past, I am no pro. I do all this for fun, and my methodologies can definitely questionable. Please question them by commenting below.
 <h3>Step 1: Getting the data.</h3>
