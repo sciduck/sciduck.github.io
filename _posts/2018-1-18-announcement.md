@@ -1,9 +1,11 @@
 ---
 layout: post
-title: This website is dead. [Here](http://modaks.herokuapp.com/) is my new one. 
+title: This website is dead. Will revive soon. 
 ---
 
-# [Here](http://modaks.herokuapp.com/)
-## [Here](http://modaks.herokuapp.com/)
-#### [Here](http://modaks.herokuapp.com/)
-###### [Here](http://modaks.herokuapp.com/)
+At one point I had made a new [website](http://modaks.herokuapp.com/)
+
+Well, that is dead too. I will just revive this blog. Sad to see that I lost a really nice post.
+
+
+Peace, and death to covid.
