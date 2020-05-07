@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fun for now
+title: My thoughts
 permalink: /thoughts/
 ---
 {% for post in site.posts %}
