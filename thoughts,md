@@ -1,3 +1,8 @@
+---
+layout: page
+title: Fun for now
+permalink: /thoughts/
+---
 {% for post in site.posts %}
   {% if post.categories contains 'trash' %}
     <div class="post">
