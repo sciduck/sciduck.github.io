@@ -5,7 +5,7 @@ permalink: /fun/
 ---
 
 # What I am listening to.
-<details open>
+<details>
   <summary><strong>Business/Tech</strong></summary>
   <ul>
     <li>Planet Money</li>
@@ -15,7 +15,7 @@ permalink: /fun/
   </ul> 
 </details>
 
-<details open>
+<details>
   <summary><strong>People, Internet and Culture</strong></summary>
   
   <ul>
