@@ -7,29 +7,32 @@ permalink: /fun/
 # What I am listening to.
 <details open>
   <summary><strong>Business/Tech</strong></summary>
-  
-  
-  * Planet Money
-  * The Indicator
-  * Equity
+  <ul>
+    <li>Planet Money</li>
+    <li>The Indicator</li>
+    <li>Equity</li>
+    <li>Startup</li>
+  </ul> 
 </details>
 
 <details open>
   <summary><strong>People, Internet and Culture</strong></summary>
   
-  
-  * Reply All
-  * Conan O'Brien needs a friend
-  * Inside Conan
+  <ul>
+    <li>Reply All</li>
+    <li>Conan O'Brien needs a friend</li>
+    <li>Inside Conan</li>
+  </ul> 
+
 </details>
 
 # What I am reading.
 <details>
   <summary><strong>Jack</strong></summary>
-  
-  
-  * Jack
-  * Jack
-  * Jack
+    <ul>
+      <li>Jack</li>
+      <li>Jack</li>
+      <li>Jack</li>
+    </ul> 
 </details>
 
