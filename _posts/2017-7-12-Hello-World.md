@@ -1,6 +1,8 @@
 ---
 layout: post
 title: First blog. Testing purposes.
+category: trash
+tags: [meta, trash]
 ---
 
 This post is just me trying out jekyll and fooling around with markdown.
