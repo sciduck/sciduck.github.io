@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Analysing Times Now and Republic TV twitter feeds.
-categories: [data, news]
+categories: [data, news, main]
 tags: [visualisation, data, news]
 ---
 
