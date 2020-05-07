@@ -1,6 +1,8 @@
 ---
 layout: post
-title: This website is dead. Will revive soon. 
+title: This website is dead. Will revive soon.
+category: trash
+tags: [trash, meta]
 ---
 
 At one point I had made a new [website](http://modaks.herokuapp.com/)
