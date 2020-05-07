@@ -3,11 +3,18 @@ layout: page
 title: My thoughts
 permalink: /thoughts/
 ---
+
 {% for post in site.posts %}
   {% if post.categories contains 'trash' %}
-    <div class="post">
-        <h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        <p class="meta">Date: {{ post.date }}</p>
-    </div>
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
   {% endif %}
 {% endfor %}
