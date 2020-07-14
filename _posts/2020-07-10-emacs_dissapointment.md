@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My dissapointment with Emacs.
+title: My disapointment with Emacs.
 categories: [trash]
 tags: [thoughts, emacs]
 ---
