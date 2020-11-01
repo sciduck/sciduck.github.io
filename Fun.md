@@ -12,6 +12,7 @@ permalink: /fun/
     <li>The Indicator</li>
     <li>Equity</li>
     <li>Startup</li>
+    <li>Robinhood Snacks</li>
   </ul> 
 </details>
 
@@ -22,17 +23,14 @@ permalink: /fun/
     <li>Reply All</li>
     <li>Conan O'Brien needs a friend</li>
     <li>Inside Conan</li>
+    <li>Joe Rogan Experienece</li>
   </ul> 
 
 </details>
 
 # What I am reading.
-<details>
-  <summary><strong>Jack</strong></summary>
-    <ul>
-      <li>Jack</li>
-      <li>Jack</li>
-      <li>Jack</li>
-    </ul> 
-</details>
+  - The Hating Game
+  - Thinking Fast and Slow
+  - Siddhartha by Herman Hesse
+
 
