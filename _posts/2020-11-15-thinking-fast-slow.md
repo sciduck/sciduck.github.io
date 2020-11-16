@@ -14,6 +14,8 @@ This is quite a dense book that covers the work done over the career of the Dani
 #### System 1
 This is responsible, in a gist, for the the quick decisions that our mind makes. These decisions are prone to be irrational, biased, and generally give more importance to prejudice, than fact. Despite this, this is a very important part of our mind, and do possess a lot of advantages to us.
 > "System one executes skilled responses and generates skilled intuitions, after adequate training. System one creates a coherent pattern of activated ideas in associative memory. It also links a sense of cognitive ease to illusions of truth, pleasant feelings, and reduced vigilance."
+
+
 #### System 2
 This is the smarter, more rational part of our brain. It helps us make better decisions, but unfortunately, its a very lazy system.
 
