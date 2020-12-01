@@ -2,7 +2,7 @@
 layout: post
 title: The Hating Game.
 categories: [trash]
-tags: [thoughts, books]
+tags: [books]
 ---
 
 
