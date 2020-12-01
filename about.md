@@ -15,8 +15,8 @@ He is a big fan of writing about himself in third person.
 ### Structure
 
 * **blog** posts I took a while to write, and I consider polished
+* **books** short book reviews
 * **thoughts** random thoughts, and unpolished pieces
-* **now** things I am consuming rn
 
 ### Contact me
 
