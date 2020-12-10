@@ -2,7 +2,7 @@
 layout: post
 title: Thinking, fast and slow.
 categories: [trash]
-tags: [books]
+tags: [books, science]
 ---
 
 

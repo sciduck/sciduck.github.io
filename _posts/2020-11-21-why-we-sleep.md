@@ -2,7 +2,7 @@
 layout: post
 title: Why we sleep?
 categories: [trash]
-tags: [books]
+tags: [books, science]
 ---
 
 Now, I don't want to "sleep, when I die".
