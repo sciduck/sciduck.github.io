@@ -6,7 +6,7 @@ tags: [books, science]
 ---
 
 
-Every man is born as many men and dies as a single one.
+Every human is born as many and dies as one.
 
 ![Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580794624l/51778153._SX318_SY475_.jpg)
 ## Your brain is physically changing as you read this.
