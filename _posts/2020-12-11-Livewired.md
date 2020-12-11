@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Livewired
+title: Livewired.
 categories: [trash]
 tags: [books, science]
 ---
