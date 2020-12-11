@@ -15,6 +15,9 @@
 
 @import url('https://fonts.googleapis.com/css?family=Lato');
 @import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Lusitana');
+@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,600,700&display=swap&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@900&display=swap');
 
 html {
   font-size: 100%;
@@ -23,11 +26,11 @@ html {
 
 body {
   background: #fff;
-  font-family: "Lato";
+  font-family: "Lusitana";
   color: #404040;
-  line-height: 1.5;
-  font-weight: 200;
-  font-size: 18px;
+  line-height: 28px;
+  font-weight: 400;
+  font-size: 20px;
   height: 100%;
 }
 
@@ -39,7 +42,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Merriweather";
+  font-family: 'Source Serif Pro';
   color: $darkerGray;
   font-weight: bold;
 
@@ -54,7 +57,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  //font-size: 30px;
+  font-family: 'Source Serif Pro', serif;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 64px;
+
   a {
     color: inherit;
   }
@@ -62,10 +70,12 @@ h1 {
 
 h2 {
   font-size: 24px;
+  font-weight: 600;
 }
 
 h3 {
-  font-size: 24px;
+  font-size: 22px;
+  font-weight: 600;
 }
 
 //@media (min-width: 769px){
@@ -451,7 +461,7 @@ body:after {
 }
 
 .post h1{
-  font-family: "Merriweather";
+  font-family: "Source Serif Pro";
   text-align: left;
   font-weight: bold;
   font-kerning: auto;
@@ -460,7 +470,7 @@ body:after {
 }
 
 .page h1{
-  font-family: "Merriweather";
+  font-family: "Source Serif Pro";
   text-align: left;
   font-weight: bold;
   font-kerning: auto;
