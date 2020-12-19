@@ -28,9 +28,11 @@ This was a very interesting chapter, especially for me, since I work at a place 
 ### Taxes, and cash transfer schemes.
 And this is the final topic covered in this book. This has some truly spicy takes on taxation, and the current hot topic of universal basic income. It is clear that the authors or more left leaning in their recommendations, but all their reasoning seems to be quite solid, and its clear they really care for the society.
 ## Let's just be nice
-The core arguments are grounded firmly on treating the poor with dignity, and respect. The pervasive classism (and all the other -isms) in our society, trickle their way down to public policy, which leads to increased inequality, and unhappier people. Its made abundantly clear that our rabid obsession with growth, and numbers have overshadowed the needs of our people.
+The core arguments are grounded firmly on treating the poor with dignity, and respect. The pervasive classism (and all the other -isms) in our society, trickle their way down to public policy, which leads to increased inequality, and unhappier people.
+
 > “It is easy to forget, especially in a crisis, the need to protect as far as possible the dignity of those being helped.”
 
+Its made abundantly clear that our rabid obsession with growth, and numbers have overshadowed the needs of our people.
 
 ## Conclusion
 This book was very interesting, and well researched. The problem is that people who need to read this book, will never read this book. This book isn't for everybody, its dry sometimes, and very wordy during other times. But it contains some very important ideas.
