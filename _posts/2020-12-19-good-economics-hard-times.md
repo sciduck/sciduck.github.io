@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Good Economcis for Hard Times.
+title: Good Economics for Hard Times.
 categories: [trash]
 tags: [books, science]
 ---
@@ -30,8 +30,11 @@ And this is the final topic covered in this book. This has some truly spicy take
 ## Let's just be nice
 The core arguments are grounded firmly on treating the poor with dignity, and respect. The pervasive classism (and all the other -isms) in our society, trickle their way down to public policy, which leads to increased inequality, and unhappier people. Its made abundantly clear that our rabid obsession with growth, and numbers have overshadowed the needs of our people.
 > “It is easy to forget, especially in a crisis, the need to protect as far as possible the dignity of those being helped.”
+
+
 ## Conclusion
 This book was very interesting, and well researched. The problem is that people who need to read this book, will never read this book. This book isn't for everybody, its dry sometimes, and very wordy during other times. But it contains some very important ideas.
 
 for anyone interested in such topics, this is an essential read. But for me, its a 3.5/5. Its a drag sometimes, but the more interesting chapters more than make for the shortcomings.
+
 > “The call to action is not just for academic economists—it is for all of us who want a better, saner, more humane world. Economics is too important to be left to economists.”
