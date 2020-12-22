@@ -3,6 +3,7 @@ layout: post
 title: Atomic Habits.
 categories: [trash]
 tags: [books, productivity]
+rating: 9/10
 ---
 
 I bought this book because I was greatly taken by the promises made by it, and the internet swearing by it. I got lucky, because I really liked this book, the main reason being its a very effective, and practical guide to building and enforcing habits. I'd highly recommend this to anyone who wants to form new habits, or try to get rid of bad ones.

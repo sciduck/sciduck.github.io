@@ -3,6 +3,7 @@ layout: post
 title: Heidi's Guide to Four Letter Words.
 categories: [trash]
 tags: [books, fiction]
+rating: 6/10
 ---
 
 Feel good, almost to a fault.

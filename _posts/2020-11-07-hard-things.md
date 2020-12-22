@@ -3,6 +3,7 @@ layout: post
 title: The Hard Thing about hard things.
 categories: [trash]
 tags: [books, startups]
+rating: 8/10
 ---
 
 

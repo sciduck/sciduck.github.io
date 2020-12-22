@@ -3,6 +3,7 @@ layout: post
 title: Good Economics for Hard Times.
 categories: [trash]
 tags: [books, science]
+rating: 7/10
 ---
 
 A well researched and genuine work, accounting for those the markets have left behind.
