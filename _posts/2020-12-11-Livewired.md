@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Livewired.
-categories: [trash]
-tags: [books, science]
+categories: [books]
+tags: [Science]
 rating: 8/10
 ---
 

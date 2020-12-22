@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Thinking, fast and slow.
-categories: [trash]
-tags: [books, science]
+categories: [books]
+tags: [Psychology, Science]
 rating: 8/10
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Stillness is the key.
-categories: [trash]
-tags: [books, philosophy]
+categories: [books]
+tags: [Philosophy, Personal Development]
 rating: 6/10
 ---
 This is third book in the Ryan Holiday's stoicism (inspired?) trilogy of books. 

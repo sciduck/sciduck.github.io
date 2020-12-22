@@ -1,8 +1,8 @@
 ---
 title: The Psychology of Money.
 layout: post
-categories: trash
-tags: finance, development
+categories: [books]
+tags: [Finance, Personal Development, Psychology]
 rating: 9/10
 ---
 

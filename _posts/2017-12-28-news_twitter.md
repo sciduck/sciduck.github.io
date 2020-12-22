@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Analysing Times Now and Republic TV twitter feeds.
-categories: [data, news, main]
-tags: [visualisation, data, news]
+categories: [main]
+tags: [Data, News]
 ---
 
 <h2>Or how I scraped the web and did some amateur analysis.</h2>

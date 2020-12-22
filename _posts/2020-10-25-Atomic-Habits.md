@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Atomic Habits.
-categories: [trash]
-tags: [books, productivity]
+categories: [books]
+tags: [Personal Development]
 rating: 9/10
 ---
 

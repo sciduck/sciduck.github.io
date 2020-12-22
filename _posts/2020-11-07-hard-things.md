@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Hard Thing about hard things.
-categories: [trash]
-tags: [books, startups]
+categories: [books]
+tags: [Business, Startups]
 rating: 8/10
 ---
 

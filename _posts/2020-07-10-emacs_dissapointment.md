@@ -1,8 +1,8 @@
 ---
 layout: post
 title: My disapointment with Emacs.
-categories: [trash]
-tags: [thoughts, emacs]
+categories: [thoughts]
+tags: [Tools]
 ---
 
 

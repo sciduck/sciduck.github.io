@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Heidi's Guide to Four Letter Words.
-categories: [trash]
-tags: [books, fiction]
+categories: [books]
+tags: [Fiction]
 rating: 6/10
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Hating Game.
-categories: [trash]
-tags: [books, fiction]
+categories: [books]
+tags: [Fiction]
 rating: 6/10
 ---
 

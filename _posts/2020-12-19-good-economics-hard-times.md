@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Good Economics for Hard Times.
-categories: [trash]
-tags: [books, science]
+categories: [books]
+tags: [Social Science, Finance]
 rating: 7/10
 ---
 
