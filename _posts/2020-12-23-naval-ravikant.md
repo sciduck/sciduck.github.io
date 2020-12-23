@@ -1,5 +1,5 @@
 ---
-title: The Almanack of Naval Ravikant
+title: The Almanack of Naval Ravikant.
 layout: post
 categories: [books]
 tags: [Self Development, Finance, Entrepreneurship]
