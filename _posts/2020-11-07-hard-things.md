@@ -2,7 +2,7 @@
 layout: post
 title: The Hard Thing about hard things.
 categories: [books]
-tags: [Business, Startups]
+tags: [Business, Entrepreneurship]
 rating: 8/10
 ---
 
