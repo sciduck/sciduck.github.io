@@ -2,7 +2,7 @@
 title: The Almanack of Naval Ravikant.
 layout: post
 categories: [books]
-tags: [Self Development, Finance, Entrepreneurship]
+tags: [Personal Development, Finance, Entrepreneurship]
 rating: 8/10
 ---
 
