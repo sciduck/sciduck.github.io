@@ -1,5 +1,5 @@
 ---
-title: A Brief History of Time
+title: A Brief History of Time.
 tags: [Science]
 categories: [books]
 layout: post
