@@ -9,12 +9,16 @@ layout: post
 A "best of" compilation of thinking and learning models - good if you haven't read a lot of books on thinking and learning techniques.
 
 ![Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390692774l/3063393.jpg)
+
+
 ## Pragmatic processes for powerful percipience
 Don't be fooled by the book, and its programming textbook lingo - this is a proper self development book which introduces lots of mental models to improve the learning, absorption and assimilation of information. It aims to serve as a handbook for going from journeyman to mastery, quite like the other popular (almost legendary) book in the series, The Pragmatic Programmer.  First off, this book shows its age. Its written in 2008, over a decade ago. A lot of the techniques in this book aren't really new or groundbreaking - they are known techniques, but this book does a good job of compiling them into a very entertaining and well written package. It does a good job of motivating you to stick to these techniques by providing exercises to actually follow these techniques. The actionable are fun and effective.
 
 If there was one part of this book that I truly disliked, was the chapter where he brings up the Myers Briggs Test, and tries to codify and classify people based on types and generations. I thought it was garbage, and added no value either. 
 
 This books is a pretty quick read, so its hard not to recommend especially for those just beginning with mental models for improving oneself. Below, I am going to attempt to summarise some of the key points and takeaways that I had.
+
+
 ## Takeaways
 Here are the thing that stood out particularly by me, which I may actually try to apply in my day to day life:
 * I like the idea of SMART goals, which is a framework for setting and achieving your goals. SMART stands for Specific, Measurable, Achievable, Relevant, and Time-Bound
@@ -65,5 +69,7 @@ The book has a list of "Recipes" which sum up the core essence of the main point
 * Use multiple monitors to avoid context switching.
 * Optimize your personal workflow to maximize context.
 * Grab the wheel, you can’t steer on autopilot.
+
+
 ## Conclusion
 This book was pretty good. The information here isn't new, the value more lies in the way that the information is presented, with the exercises and some general pop psychology. I give this a light 7/10
