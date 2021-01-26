@@ -21,8 +21,8 @@ let palette;
 function setup() {
 
     canvas = createCanvas(width, height);
-    width = 1920
-    height = 3600
+    // width = 1920
+    // height = 3600
     // createCanvas(1200, 1200);
     THE_SEED = floor(random(9999999));
     randomSeed(THE_SEED);
@@ -42,9 +42,15 @@ function setup() {
         let ps = [];
         let col = palette[floor(random(palette.length))];
         for (var i = 0; i < number_of_particles; i++) {
-            ps.push(
-                new Particle(randomGaussian(1000, 150), randomGaussian(300, 1500),2, col)
-            );
+            if (j%2 === 0) {
+                ps.push(
+                    new Particle(randomGaussian(width - 50, 150), randomGaussian(300, 1500), 2, col)
+                );
+            } else {
+                ps.push(
+                    new Particle(randomGaussian(50, 150), randomGaussian(300, 1500), 2, col)
+                );
+            }
         }
         particle_sets.push(ps);
     }
@@ -97,7 +103,7 @@ class Particle {
         if (this.val > 0.485 && this.val < 0.515) {
             stroke(this.col);
             push();
-            translate(this.pos.x, this.pos.y + 50 - this.altitude * 100 * map(this.pos.y, 0, height, 0.2, 4));
+            translate(this.pos.x, this.pos.y + 50 - this.altitude * 100 * map(this.pos.y, 0, height, 3, 4));
             rotate(this.angle);
             point(0, 0);
             pop();
