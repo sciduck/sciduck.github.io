@@ -6,6 +6,7 @@ tags: [Data, News]
 ---
 
 <h2>Or how I scraped the web and did some amateur analysis.</h2>
+
 As I have said in the past, I am no pro. I do all this for fun, and my methodologies can definitely questionable. Please question them by commenting below.
 <h3>Step 1: Getting the data.</h3>
 I quite obviously got this data of the official Twitter handles of <a href="https://twitter.com/republic?lang=en">RepublicTV</a> and <a href="https://twitter.com/timesnow?lang=en">Times Now</a>. I was actually kind of surprised that Republic TV got the handle @republic. Heavy investments.
