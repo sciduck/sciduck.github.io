@@ -6,7 +6,7 @@ tags: [Philosophy, Maths]
 layout: post
 ---
 
-Taleb is a crass, pretentious, and cantankerously contrarian. But you can't deny he has a point.
+Taleb is crass, pretentious, and cantankerously contrarian. But you can't deny he has a point.
 
 ![cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493979260l/34656246._SY475_.jpg)
 
