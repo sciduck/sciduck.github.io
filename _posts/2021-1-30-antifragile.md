@@ -1,5 +1,5 @@
 ---
-title: Antifragile
+title: Antifragile.
 rating: 10/10
 categories: [books]
 tags: [Philosophy, Maths]
