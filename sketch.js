@@ -72,7 +72,7 @@ function setup() {
 function draw() {
     particle_sets.forEach(function(particles, index) {
         particles.forEach(function(particle) {
-            for(j=0; j<15; j++) {
+            for(j=0; j<1; j++) {
                 particle.update(index);
                 particle.display(index);
             }
