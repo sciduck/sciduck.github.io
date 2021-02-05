@@ -6,7 +6,7 @@ tags: [Science]
 layout: post
 ---
 
-A guide to the science of hearing (with lesser science that I'd like)
+A guide to the science of hearing (with lesser science than I'd like)
 
 ![Cover](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550153792l/43970125.jpg)
 
