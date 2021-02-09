@@ -1,2 +1,2 @@
 # Website source
-### Its jekyll
+website concept: [hallicopter](www.github.com/Hallicopter)
